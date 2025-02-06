@@ -1,0 +1,7 @@
+.filterStack {
+    position: fixed;
+
+    @media (max-width: 899px) {
+        position: relative;
+    }
+}
